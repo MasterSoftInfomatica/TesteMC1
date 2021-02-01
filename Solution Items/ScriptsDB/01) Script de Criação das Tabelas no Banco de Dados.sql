@@ -1,18 +1,3 @@
---TesteMC1-DB
-
-DROP TABLE dbo.MovimentacoesItens
-GO
-DROP TABLE dbo.Movimentacoes
-GO
-DROP TABLE dbo.Produtos
-GO
-DROP TABLE dbo.Categorias
-GO
-DROP TABLE dbo.Usuarios 
-GO
-
-
-
 CREATE TABLE dbo.Usuarios 
     (
      Id BIGINT IDENTITY NOT NULL , 
