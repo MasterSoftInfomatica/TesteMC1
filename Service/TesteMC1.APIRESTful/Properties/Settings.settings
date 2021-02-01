@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TesteMC1.APIRESTful.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConnectionString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ata Source=[nome_servidor];Initial Catalog=[nome_banco_dados];User Id=[usuario];Password=[senha]</Value>
+    </Setting>
+    <Setting Name="EnderecoServidorSmtp" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[servidor_smtp]</Value>
+    </Setting>
+    <Setting Name="PortaServidorSmtp" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">25</Value>
+    </Setting>
+    <Setting Name="SslHabilitadoServidorSmtp" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="UsuarioServidorSmtp" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[usuario_smtp]</Value>
+    </Setting>
+    <Setting Name="SenhaServidorSmtp" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[senha_smtp]</Value>
+    </Setting>
+    <Setting Name="EnderecoEmailDe" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[email_de]</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
